@@ -10,3 +10,6 @@ modules:
 app:
   id: ari:cloud:ecosystem::app/d4a35937-13cb-49df-b7e7-044787c497bb
   name: hello-world
+permissions:
+  scopes:
+    - read:jira-work
